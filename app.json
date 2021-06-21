@@ -1,0 +1,12 @@
+{
+  "name": "rn-expo-boilerplate",
+  "displayName": "rn-expo-boilerplate",
+  "expo": {
+    "name": "rn-expo-boilerplate",
+    "slug": "rn-expo-boilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
