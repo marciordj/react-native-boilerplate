@@ -6,7 +6,6 @@
 - [TypeScript](https://www.typescriptlang.org)
 - [ESLint](https://eslint.org)
 - [Prettier](https://prettier.io)
----
 
 
 ### Alternative setup
