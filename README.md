@@ -8,6 +8,9 @@
 - [Prettier](https://prettier.io)
 
 
+### Main setup
+Create a new project with `expo init --template https://github.com/marciordj/react-native-template` or other template
+  
 ### Alternative setup
 
 Click on the `Use template` button
